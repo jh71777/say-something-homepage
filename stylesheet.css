@@ -73,6 +73,9 @@ footer {
  clear:both;
 }
 @media all and (orientation:portrait) {
+  .t_img{
+
+  }
   body{
     font-size: 230%;
 
