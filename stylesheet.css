@@ -74,8 +74,8 @@ footer {
 }
 @media all and (orientation:portrait) {
   body{
-    font-size: 200%;
-    
+    font-size: 250%;
+
   }
   .img_box{
     float: left;
@@ -84,7 +84,6 @@ footer {
   nav {
     margin: 0px;
     width: 100%;
-    float: left;
   }
   header{
     margin: 0px;
