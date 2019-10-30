@@ -68,6 +68,7 @@ header {
 }
 
 article {
+  font-size: 150%;
   float: left;
   text-align: left;
   width: 74%;
@@ -81,6 +82,7 @@ section {
 }
 
 footer {
+  font-size: 150%;
   padding-top: 20px;
   text-align: left;
   margin-right: 20%;
@@ -127,6 +129,7 @@ footer {
   }
 
   footer {
+    font-size: 100%;
     margin-left: 0px;
     margin-top: 10px;
     text-align: center;
