@@ -40,7 +40,8 @@ li a:hover:not(.active) {
 .active {
   background-color: #C66D00;
 }
-a{
+
+a {
   text-decoration: none;
   color: black;
 }
@@ -91,16 +92,14 @@ footer {
 }
 
 @media all and (orientation:portrait) {
-  .t_img {}
-    li a {
-      font-size: 150%;
-      display: block;
-      color: white;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-    }
-
+  li a {
+    font-size: 150%;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
   body {
     font-size: 230%;
