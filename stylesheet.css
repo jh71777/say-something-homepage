@@ -90,6 +90,12 @@ footer {
   margin-left: 20%;
   clear: both;
 }
+.go_img_box{
+  float: left;
+}
+.go_txt_box{
+  float: left;
+}
 
 @media all and (orientation:portrait) {
   li a {
@@ -97,7 +103,8 @@ footer {
   }
 
   .go_img_box {
-    width: 10%;
+    float: left;
+    width: 5%;
   }
 
   body {
@@ -106,7 +113,6 @@ footer {
 
   .go_txt_box {
     float: left;
-    font-size: 150%
   }
 
   .img_box {
@@ -139,7 +145,6 @@ footer {
     float: left;
     width: 100%;
   }
-
   footer {
     font-size: 100%;
     margin-left: 0px;
