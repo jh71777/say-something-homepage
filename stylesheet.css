@@ -91,18 +91,22 @@ footer {
   clear: both;
 }
 
+.go_img_box {
+  width: 5%;
+}
+
 @media all and (orientation:portrait) {
   li a {
     font-size: 150%;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
   }
 
   body {
     font-size: 230%;
+  }
+
+  .go_txt_box {
+    float: left;
+    font-size: 150%
   }
 
   .img_box {
