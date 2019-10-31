@@ -91,13 +91,13 @@ footer {
   clear: both;
 }
 
-
 @media all and (orientation:portrait) {
   li a {
     font-size: 150%;
   }
+
   .go_img_box {
-    width: 5%;
+    width: 10%;
   }
 
   body {
