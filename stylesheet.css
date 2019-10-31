@@ -98,6 +98,7 @@ footer {
 
 .go_box {
   clear: both;
+  width: 100%;
 }
 
 .go_txt_box {
@@ -110,6 +111,7 @@ footer {
   }
 
   .go_box {
+    width: 100%;
     clear: both;
   }
 
