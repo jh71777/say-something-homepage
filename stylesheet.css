@@ -90,10 +90,13 @@ footer {
   margin-left: 20%;
   clear: both;
 }
-.go_img_box{
+
+.go_img_box {
   float: left;
+  height: 3%;
 }
-.go_txt_box{
+
+.go_txt_box {
   float: left;
 }
 
@@ -104,7 +107,7 @@ footer {
 
   .go_img_box {
     float: left;
-    width: 5%;
+    height: 5%;
   }
 
   body {
@@ -113,6 +116,7 @@ footer {
 
   .go_txt_box {
     float: left;
+    height: 5%;
   }
 
   .img_box {
@@ -145,6 +149,7 @@ footer {
     float: left;
     width: 100%;
   }
+
   footer {
     font-size: 100%;
     margin-left: 0px;
