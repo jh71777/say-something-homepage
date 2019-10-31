@@ -109,6 +109,10 @@ footer {
     font-size: 150%;
   }
 
+  .go_box {
+    clear: both;
+  }
+
   .go_img_box {
     float: left;
     height: 5%;
