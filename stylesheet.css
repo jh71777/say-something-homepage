@@ -99,6 +99,9 @@ footer {
   li a {
     font-size: 150%;
   }
+  .go_img_box {
+    width: 10%;
+  }
 
   body {
     font-size: 230%;
