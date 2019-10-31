@@ -96,6 +96,10 @@ footer {
   height: 3%;
 }
 
+.go_box {
+  clear: both;
+}
+
 .go_txt_box {
   float: left;
 }
